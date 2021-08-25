@@ -1,0 +1,12 @@
+import React from "react";
+import { Container, Row, Col } from "react-bootstrap";
+
+export default function Register() {
+  return (
+    <Container>
+      <Row>
+        <Col>Register</Col>
+      </Row>
+    </Container>
+  );
+}
